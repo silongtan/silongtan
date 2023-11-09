@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Silong Tan
-- 👀 I’m interested in Game Design, Software
+- 👀 I’m interested in Game Design, Software Engineering
 - 🌱 I’m currently learning Unity, Unreal
 - 💞️ I’m looking to collaborate on the creation of game mods or mobile apps
 - 📫 Reach me via silongtan@outlook.com or silong.tan@duke.edu
